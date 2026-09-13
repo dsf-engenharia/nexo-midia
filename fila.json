@@ -1,5 +1,5 @@
 {
-  "gerado_em": "2026-09-13T13:40",
+  "gerado_em": "2026-09-13T13:49",
   "conta": "nexo_intelligence",
   "url_base": "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts",
   "posts": [
@@ -11,25 +11,9 @@
       "titulo": "95% dos projetos de IA não geram retorno. O motivo é quase sempre o mesmo: a empresa começou pela ferramenta. 🎯",
       "slug": "2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot",
       "tipo": "carrossel",
-      "status": "pronto",
-      "arquivos": [
-        "01.jpg",
-        "02.jpg",
-        "03.jpg",
-        "04.jpg",
-        "05.jpg",
-        "06.jpg"
-      ],
-      "image_urls": [
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/01.jpg",
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/02.jpg",
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/03.jpg",
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/04.jpg",
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/05.jpg",
-        "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/06.jpg"
-      ],
-      "hash": "609cd91d3009",
-      "agendar": "2026-09-14 12:00"
+      "status": "publicado",
+      "permalink": "https://www.instagram.com/p/DdPBsaGDc1N/",
+      "publicado_em": "2026-09-13T16:48:39+0000"
     },
     {
       "origem": "2026-09/04-carrossel-4-sinais",
@@ -57,7 +41,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-04-nem-toda-empresa-esta-pronta-para-ia-confere/06.jpg"
       ],
       "hash": "024445c3eba0",
-      "agendar": "2026-09-16 12:00"
+      "agendar": "2026-09-14 12:00"
     },
     {
       "origem": "2026-09/05-Carrossel — IA em nível crítico segurança",
@@ -137,7 +121,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-09-seu-atendimento-no-whatsapp-vai-ficar-mais-ca/08.jpg"
       ],
       "hash": "fbd4d2960dc1",
-      "agendar": "2026-09-18 12:00"
+      "agendar": "2026-09-16 12:00"
     },
     {
       "origem": "2026-09/10-Seu documento parece bom. Mas tem ideia dentro",
@@ -169,7 +153,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-10-seu-documento-parece-bom-mas-tem-ideia-dentro/08.jpg"
       ],
       "hash": "5075937b916b",
-      "agendar": "2026-09-19 12:00"
+      "agendar": "2026-09-18 12:00"
     },
     {
       "origem": "2026-09/11-Sua IA pode pagar. Mas quem definiu o limite",
@@ -213,7 +197,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-12-sua-empresa-tem-arquivos-mas-tem-memoria/08.jpg"
       ],
       "hash": "1de82f208ed2",
-      "agendar": "2026-09-21 12:00"
+      "agendar": "2026-09-19 12:00"
     },
     {
       "origem": "2026-09/13-Onde sua IA deve parar",
@@ -245,7 +229,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-13-onde-sua-ia-deve-parar/08.jpg"
       ],
       "hash": "188654261e18",
-      "agendar": "2026-09-23 12:00"
+      "agendar": "2026-09-21 12:00"
     },
     {
       "origem": "2026-09/14-O WhatsApp deixou de ser só conversa",
@@ -277,7 +261,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-14-o-whatsapp-deixou-de-ser-so-conversa/08.jpg"
       ],
       "hash": "fe93775939c4",
-      "agendar": "2026-09-25 12:00"
+      "agendar": "2026-09-23 12:00"
     },
     {
       "origem": "2026-09/15-IA não é plug-and-play",
@@ -309,7 +293,7 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-15-ia-nao-e-plug-and-play/08.jpg"
       ],
       "hash": "1590e6b0b076",
-      "agendar": "2026-09-26 12:00"
+      "agendar": "2026-09-25 12:00"
     },
     {
       "origem": "2026-09/_arquivado-16-Reel-CRM-roteiro-e-demo-html",
