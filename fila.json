@@ -1,12 +1,13 @@
 {
-  "gerado_em": "2026-09-10T02:13",
+  "gerado_em": "2026-09-13T13:40",
   "conta": "nexo_intelligence",
   "url_base": "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts",
   "posts": [
     {
       "origem": "2026-09/02-carrossel-ordem-certa",
       "n_slides": 6,
-      "legenda": "95% dos projetos de IA não geram retorno. O motivo é quase sempre o mesmo: a empresa começou pela ferramenta. 🎯\n\nA ordem certa é o contrário:\n\n1️⃣ Mapear processos e gargalos\n2️⃣ Priorizar por impacto × custo\n3️⃣ Implantar UM agente piloto\n4️⃣ Medir resultado\n5️⃣ Escalar com governança e segurança\n\nFerramenta é a última decisão, não a primeira.\n\nÉ exatamente essa ordem que seguimos no Diagnóstico AI-First da Nexo.\n\n👉 Comenta \"DIAGNÓSTICO\" que a gente te chama para mapear o seu caso.\n\n#IAparaEmpresas #AIFirst #TransformacaoDigital #AutomacaoInteligente #GestaoEmpresarial #InteligenciaArtificial #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "95% dos projetos de IA não geram retorno. O motivo é quase sempre o mesmo: a empresa começou pela ferramenta. 🎯\n\nA ordem certa é o contrário:\n\n1️⃣ Mapear processos e gargalos\n2️⃣ Priorizar por impacto × custo\n3️⃣ Implantar UM agente piloto\n4️⃣ Medir resultado\n5️⃣ Escalar com governança e segurança\n\nFerramenta é a última decisão, não a primeira.\n\nÉ exatamente essa ordem que seguimos no Diagnóstico AI-First da Nexo.\n\n👉 Comenta \"DIAGNÓSTICO\" que a gente te chama para mapear o seu caso.\n\n#IAparaEmpresas #AIFirst #TransformacaoDigital #AutomacaoInteligente #GestaoEmpresarial #InteligenciaArtificial #NexoIntelligence",
       "titulo": "95% dos projetos de IA não geram retorno. O motivo é quase sempre o mesmo: a empresa começou pela ferramenta. 🎯",
       "slug": "2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot",
       "tipo": "carrossel",
@@ -28,12 +29,13 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-02-95-dos-projetos-de-ia-nao-geram-retorno-o-mot/06.jpg"
       ],
       "hash": "609cd91d3009",
-      "agendar": "2026-09-11 12:00"
+      "agendar": "2026-09-14 12:00"
     },
     {
       "origem": "2026-09/04-carrossel-4-sinais",
       "n_slides": 6,
-      "legenda": "Nem toda empresa está pronta para IA. Confere se a sua está: ✅\n\n1. Equipe afogada em tarefa repetitiva\n2. Dados já vivem em planilha ou sistema\n3. Processos que se repetem toda semana\n4. Dono sem tempo para o estratégico\n\n❌ E o sinal de que NÃO está: querer IA \"porque está na moda\", sem processo definido.\n\nSe você marcou 2 ou mais dos sinais ✅, seu escritório tem automação com retorno esperando para sair do papel.\n\n👉 Comenta \"DIAGNÓSTICO\" que a gente analisa o seu caso.\n\n#IAparaEmpresas #AutomacaoInteligente #AIFirst #Advocacia #Contabilidade #Consultoria #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "Nem toda empresa está pronta para IA. Confere se a sua está: ✅\n\n1. Equipe afogada em tarefa repetitiva\n2. Dados já vivem em planilha ou sistema\n3. Processos que se repetem toda semana\n4. Dono sem tempo para o estratégico\n\n❌ E o sinal de que NÃO está: querer IA \"porque está na moda\", sem processo definido.\n\nSe você marcou 2 ou mais dos sinais ✅, seu escritório tem automação com retorno esperando para sair do papel.\n\n👉 Comenta \"DIAGNÓSTICO\" que a gente analisa o seu caso.\n\n#IAparaEmpresas #AutomacaoInteligente #AIFirst #Advocacia #Contabilidade #Consultoria #NexoIntelligence",
       "titulo": "Nem toda empresa está pronta para IA. Confere se a sua está: ✅",
       "slug": "2026-09-04-nem-toda-empresa-esta-pronta-para-ia-confere",
       "tipo": "carrossel",
@@ -55,11 +57,12 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-04-nem-toda-empresa-esta-pronta-para-ia-confere/06.jpg"
       ],
       "hash": "024445c3eba0",
-      "agendar": "2026-09-12 12:00"
+      "agendar": "2026-09-16 12:00"
     },
     {
       "origem": "2026-09/05-Carrossel — IA em nível crítico segurança",
       "n_slides": 8,
+      "video": null,
       "legenda": null,
       "titulo": "IA em nível crítico segurança",
       "slug": "2026-09-05-ia-em-nivel-critico-seguranca",
@@ -71,6 +74,7 @@
     {
       "origem": "2026-09/06-Carrossel - Seus agentes de IA estão presos",
       "n_slides": 8,
+      "video": null,
       "legenda": "Seus agentes de IA estão presos?\n\nA Meta trocar o chat interno por causa do ecossistema de agentes diz algo importante: a próxima vantagem não está no chatbot mais inteligente, mas na integração com o trabalho real.\n\nQuando o agente consulta o CRM, aciona o ERP, registra o histórico e entrega contexto ao humano, a IA deixa de apenas responder e começa a executar — com permissões e governança.\n\nQual processo da sua empresa ainda depende de copiar e colar? Salve e compartilhe com quem precisa automatizar isso.\n\nQuer mapear o primeiro processo? Fale com a @nexo_intelligence.\n\n#InteligenciaArtificial #AgentesDeIA #AutomacaoDeProcessos #AutomacaoDeVendas #NexoIntelligence",
       "titulo": "Seus agentes de IA estão presos?",
       "slug": "2026-09-06-seus-agentes-de-ia-estao-presos",
@@ -82,6 +86,7 @@
     {
       "origem": "2026-09/07-Carrossel - IA esta mais Rapida",
       "n_slides": 8,
+      "video": null,
       "legenda": "A IA ficou mais rápida. Seu processo também?\n\nA OpenAI apresentou o GPT-6 Astra para tarefas empresariais como preparação tributária, documentos jurídicos, projetos e pesquisas. Mas um modelo mais rápido não resolve dados espalhados, aprovações manuais ou sistemas desconectados. O ganho aparece quando a IA entra no fluxo real e ajuda a tarefa a chegar até a conclusão. Crédito: Reuters, 3 de setembro de 2026.\n\nQual processo da sua empresa ainda depende de copiar, colar e cobrar? Salve este diagnóstico e fale com a Nexo.\n\n#InteligenciaArtificial #AgentesDeIA #AutomacaoDeProcessos #Produtividade #IntegracaoDeSistemas #NexoIntelligence",
       "titulo": "A IA ficou mais rápida. Seu processo também?",
       "slug": "2026-09-07-a-ia-ficou-mais-rapida-seu-processo-tambem",
@@ -93,6 +98,7 @@
     {
       "origem": "2026-09/08-Carrossel - Saber usar IA virou critério de contratação",
       "n_slides": 8,
+      "video": null,
       "legenda": "Saber usar IA virou critério de contratação.\n\nO Financial Times informou em 6 de setembro de 2026 que o UBS passou a exigir demonstração de proficiência em IA de candidatos a programas de formação em áreas bancárias. O próprio banco destaca uso real, aplicação responsável e julgamento como pilares da fluência em IA. Para as empresas, o recado é direto: comprar ferramentas sem treinar a equipe cria acesso, não vantagem. Crédito: Financial Times e UBS. Sua equipe já sabe aplicar IA em processos reais? Salve e compartilhe.\n\nQuer preparar sua equipe para usar IA com método e segurança? Fale com a Nexo Intelligence.\n\n#NexoIntelligence #TreinamentoEmIA #IAParaEmpresas #AgentesDeIA #ProdutividadeEmpresarial #TransformaçãoDigital #GestãoEmpresarial",
       "titulo": "Saber usar IA virou critério de contratação.",
       "slug": "2026-09-08-saber-usar-ia-virou-criterio-de-contratacao",
@@ -104,7 +110,8 @@
     {
       "origem": "2026-09/09-Seu atendimento no WhatsApp vai ficar mais caro",
       "n_slides": 8,
-      "legenda": "Seu atendimento no WhatsApp vai ficar mais caro.\n\nA partir de 1º de outubro de 2026, a Meta passa a cobrar por mensagem de serviço na WhatsApp Business Platform: cada número comercial terá franquia mensal de 1.000 mensagens e, depois disso, a cobrança será por mensagem entregue, com tarifa variando por país. Para as empresas, o recado é simples: conversa fragmentada, resposta em cinco mensagens e cliente que precisa perguntar de novo viram custo direto. Eficiência de atendimento passa a aparecer na margem. Crédito: Meta e Twilio, atualização consultada em 06/09/2026. Seu atendimento resolve na primeira mensagem ou multiplica mensagens?\n\nSalve este carrossel e peça à Nexo um diagnóstico do seu fluxo de atendimento no WhatsApp.\n\n#WhatsAppBusiness #AtendimentoAoCliente #AgentesDeIA #AutomacaoDeProcessos #CRM #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "Seu atendimento no WhatsApp vai ficar mais caro.\n\nA partir de 1º de outubro de 2026, a Meta passa a cobrar por mensagem de serviço na WhatsApp Business Platform: cada número comercial terá franquia mensal de 1.000 mensagens e, depois disso, a cobrança será por mensagem entregue, com tarifa variando por país. Para as empresas, o recado é simples: conversa fragmentada, resposta em cinco mensagens e cliente que precisa perguntar de novo viram custo direto. Eficiência de atendimento passa a aparecer na margem. Crédito: Meta e Twilio, atualização consultada em 06/09/2026. Seu atendimento resolve na primeira mensagem ou multiplica mensagens?\n\nSalve este carrossel e peça à Nexo um diagnóstico do seu fluxo de atendimento no WhatsApp.\n\n#WhatsAppBusiness #AtendimentoAoCliente #AgentesDeIA #AutomacaoDeProcessos #CRM #NexoIntelligence",
       "titulo": "Seu atendimento no WhatsApp vai ficar mais caro.",
       "slug": "2026-09-09-seu-atendimento-no-whatsapp-vai-ficar-mais-ca",
       "tipo": "carrossel",
@@ -130,12 +137,13 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-09-seu-atendimento-no-whatsapp-vai-ficar-mais-ca/08.jpg"
       ],
       "hash": "fbd4d2960dc1",
-      "agendar": "2026-09-14 12:00"
+      "agendar": "2026-09-18 12:00"
     },
     {
       "origem": "2026-09/10-Seu documento parece bom. Mas tem ideia dentro",
       "n_slides": 8,
-      "legenda": "Seu documento parece bom. Mas tem ideia dentro?\n\nEm 7 de setembro de 2026, o Business Insider relatou que o CEO da Spellbook prefere receber primeiro a versão simples e ainda imperfeita de uma ideia, antes do \"polimento\" feito pela IA. Até empresas de IA estão criando regras contra textos polidos e vazios, porque texto bonito pode esconder raciocínio fraco e transferir retrabalho para quem lê. Produtividade real é entregar clareza, contexto e decisão, não volume. IA deve ampliar o seu raciocínio, não esconder a falta dele. Crédito: Business Insider e BetterUp/Stanford, 07/09/2026. Na sua empresa, a IA está ajudando a pensar ou só a formatar?\n\nSalve e compartilhe com quem escreve propostas e relatórios. Para um diagnóstico de uso responsável de IA, fale com a Nexo Intelligence.\n\n#InteligenciaArtificial #Produtividade #GestaoEmpresarial #IAParaEmpresas #UsoResponsavelDeIA #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "Seu documento parece bom. Mas tem ideia dentro?\n\nEm 7 de setembro de 2026, o Business Insider relatou que o CEO da Spellbook prefere receber primeiro a versão simples e ainda imperfeita de uma ideia, antes do \"polimento\" feito pela IA. Até empresas de IA estão criando regras contra textos polidos e vazios, porque texto bonito pode esconder raciocínio fraco e transferir retrabalho para quem lê. Produtividade real é entregar clareza, contexto e decisão, não volume. IA deve ampliar o seu raciocínio, não esconder a falta dele. Crédito: Business Insider e BetterUp/Stanford, 07/09/2026. Na sua empresa, a IA está ajudando a pensar ou só a formatar?\n\nSalve e compartilhe com quem escreve propostas e relatórios. Para um diagnóstico de uso responsável de IA, fale com a Nexo Intelligence.\n\n#InteligenciaArtificial #Produtividade #GestaoEmpresarial #IAParaEmpresas #UsoResponsavelDeIA #NexoIntelligence",
       "titulo": "Seu documento parece bom. Mas tem ideia dentro?",
       "slug": "2026-09-10-seu-documento-parece-bom-mas-tem-ideia-dentro",
       "tipo": "carrossel",
@@ -161,11 +169,12 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-10-seu-documento-parece-bom-mas-tem-ideia-dentro/08.jpg"
       ],
       "hash": "5075937b916b",
-      "agendar": "2026-09-16 12:00"
+      "agendar": "2026-09-19 12:00"
     },
     {
       "origem": "2026-09/11-Sua IA pode pagar. Mas quem definiu o limite",
       "n_slides": 8,
+      "video": null,
       "legenda": null,
       "titulo": "Sua IA pode pagar. Mas quem definiu o limite",
       "slug": "2026-09-11-sua-ia-pode-pagar-mas-quem-definiu-o-limite",
@@ -177,7 +186,8 @@
     {
       "origem": "2026-09/12-Sua empresa tem arquivos. Mas tem memória",
       "n_slides": 8,
-      "legenda": "Sua empresa tem arquivos. Mas tem memória?\n\nReuters e ITN anunciaram em 8 de setembro de 2026 que usarão IA para enriquecer 70 anos de arquivo histórico com metadados, transcrições, descrição de cenas e traduções, além de digitalizar mais 12 mil horas de vídeo. A lição serve para qualquer empresa: contratos, laudos, e-mails e propostas guardados em pastas são custo; informação encontrável vira decisão. Com IA, o acervo esquecido passa a responder perguntas da equipe em segundos. Crédito: Reuters, 08/09/2026. Quanto do conhecimento da sua empresa está guardado onde ninguém acha?\n\nQuer transformar arquivos em memória operacional? Salve, compartilhe e fale com a Nexo Intelligence.\n\n#GestaoDoConhecimento #InteligenciaArtificial #AutomacaoDeProcessos #AgentesDeIA #Produtividade #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "Sua empresa tem arquivos. Mas tem memória?\n\nReuters e ITN anunciaram em 8 de setembro de 2026 que usarão IA para enriquecer 70 anos de arquivo histórico com metadados, transcrições, descrição de cenas e traduções, além de digitalizar mais 12 mil horas de vídeo. A lição serve para qualquer empresa: contratos, laudos, e-mails e propostas guardados em pastas são custo; informação encontrável vira decisão. Com IA, o acervo esquecido passa a responder perguntas da equipe em segundos. Crédito: Reuters, 08/09/2026. Quanto do conhecimento da sua empresa está guardado onde ninguém acha?\n\nQuer transformar arquivos em memória operacional? Salve, compartilhe e fale com a Nexo Intelligence.\n\n#GestaoDoConhecimento #InteligenciaArtificial #AutomacaoDeProcessos #AgentesDeIA #Produtividade #NexoIntelligence",
       "titulo": "Sua empresa tem arquivos. Mas tem memória?",
       "slug": "2026-09-12-sua-empresa-tem-arquivos-mas-tem-memoria",
       "tipo": "carrossel",
@@ -203,12 +213,13 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-12-sua-empresa-tem-arquivos-mas-tem-memoria/08.jpg"
       ],
       "hash": "1de82f208ed2",
-      "agendar": "2026-09-18 12:00"
+      "agendar": "2026-09-21 12:00"
     },
     {
       "origem": "2026-09/13-Onde sua IA deve parar",
       "n_slides": 8,
-      "legenda": "Onde sua IA deve parar?\n\nA responsável jurídica do Google afirmou à Axios, em 8 de setembro de 2026, que a IA pode ajudar em contratos, conferência de citações, monitoramento regulatório e pesquisa, mas que o julgamento final e a responsabilidade continuam com pessoas. Automatizar tudo não é maturidade, é falta de desenho do processo. IA boa entrega contexto para a equipe decidir melhor e executa apenas dentro da fronteira combinada. Crédito: Axios, 08/09/2026. Na sua operação, onde a IA decide e onde ela chama uma pessoa?\n\nQuer desenhar a fronteira do seu fluxo? Salve este carrossel e fale com a Nexo Intelligence.\n\n#GovernancaDeIA #AgentesDeIA #AutomacaoDeProcessos #InteligenciaArtificial #GestaoEmpresarial #NexoIntelligence #(Legenda #redigida #em #09/09/2026 #a #partir #dos #slides #— #revisar #se #quiser #antes #de #publicar.)",
+      "video": null,
+      "legenda": "Onde sua IA deve parar?\n\nA responsável jurídica do Google afirmou à Axios, em 8 de setembro de 2026, que a IA pode ajudar em contratos, conferência de citações, monitoramento regulatório e pesquisa, mas que o julgamento final e a responsabilidade continuam com pessoas. Automatizar tudo não é maturidade, é falta de desenho do processo. IA boa entrega contexto para a equipe decidir melhor e executa apenas dentro da fronteira combinada. Crédito: Axios, 08/09/2026. Na sua operação, onde a IA decide e onde ela chama uma pessoa?\n\nQuer desenhar a fronteira do seu fluxo? Salve este carrossel e fale com a Nexo Intelligence.\n\n#GovernancaDeIA #AgentesDeIA #AutomacaoDeProcessos #InteligenciaArtificial #GestaoEmpresarial #NexoIntelligence",
       "titulo": "Onde sua IA deve parar?",
       "slug": "2026-09-13-onde-sua-ia-deve-parar",
       "tipo": "carrossel",
@@ -234,11 +245,12 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-13-onde-sua-ia-deve-parar/08.jpg"
       ],
       "hash": "188654261e18",
-      "agendar": "2026-09-19 12:00"
+      "agendar": "2026-09-23 12:00"
     },
     {
       "origem": "2026-09/14-O WhatsApp deixou de ser só conversa",
       "n_slides": 8,
+      "video": null,
       "legenda": "O WhatsApp deixou de ser só conversa\n\nA Meta lançou nos Estados Unidos um agente que pode ser acionado pelo WhatsApp, trabalhar em segundo plano e executar tarefas em outros aplicativos. Para as empresas, a mudança de expectativa é clara: o cliente não quer apenas resposta rápida — quer que a solicitação avance. Créditos: Meta e Reuters, 8 de setembro de 2026. Seu atendimento transforma mensagens em processos ou ainda termina na conversa?\n\nSalve este carrossel e compartilhe com quem precisa conectar WhatsApp, CRM e operação.\n\n#IAnoWhatsApp #AgentesDeIA #AutomacaoDeProcessos #AutomacaoDeVendas #CRM #AtendimentoAoCliente #NexoIntelligence",
       "titulo": "O WhatsApp deixou de ser só conversa",
       "slug": "2026-09-14-o-whatsapp-deixou-de-ser-so-conversa",
@@ -265,11 +277,12 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-14-o-whatsapp-deixou-de-ser-so-conversa/08.jpg"
       ],
       "hash": "fe93775939c4",
-      "agendar": "2026-09-21 12:00"
+      "agendar": "2026-09-25 12:00"
     },
     {
       "origem": "2026-09/15-IA não é plug-and-play",
       "n_slides": 8,
+      "video": null,
       "legenda": "IA não é plug-and-play\n\nGoogle Cloud e Accenture planejam preparar até mil engenheiros para trabalhar junto aos clientes na implantação de agentes de IA. A mensagem para os empresários é simples: resultado não vem apenas da ferramenta, mas da integração com processos, sistemas, métricas e pessoas. Crédito: Business Insider, 9 de setembro de 2026. Sua empresa está pronta para implantar ou ainda está apenas testando ferramentas?\n\nSalve o microdiagnóstico e fale com a Nexo Intelligence para identificar o processo certo para começar.\n\n#ConsultoriaDeIA #AgentesDeIA #AutomacaoDeProcessos #IntegracaoDeSistemas #TransformacaoDigital #Produtividade #NexoIntelligence",
       "titulo": "IA não é plug-and-play",
       "slug": "2026-09-15-ia-nao-e-plug-and-play",
@@ -296,7 +309,17 @@
         "https://raw.githubusercontent.com/dsf-engenharia/nexo-midia/HEAD/posts/2026-09-15-ia-nao-e-plug-and-play/08.jpg"
       ],
       "hash": "1590e6b0b076",
-      "agendar": "2026-09-23 12:00"
+      "agendar": "2026-09-26 12:00"
+    },
+    {
+      "origem": "2026-09/_arquivado-16-Reel-CRM-roteiro-e-demo-html",
+      "n_slides": 0,
+      "video": null,
+      "legenda": "Isso é um CRM com IA para clínica de estética.\n\nAgenda organizada, confirmações automáticas no WhatsApp, ficha viva de cada paciente e uma IA que percebe quem está perto do retorno e manda a mensagem por você. A paciente responde e o horário entra na agenda sozinho. Menos horário vazio, mais faturamento, ninguém preso ao celular. É isso que a Nexo implanta na operação real da sua clínica: diagnóstico, agentes e automações, com governança e LGPD.\n\nQuer ver como ficaria na sua clínica? Comenta \"CLÍNICA\" ou chama no direct que a gente mostra.\n\n#ClinicaDeEstetica #IAparaEmpresas #CRM #AutomacaoDeProcessos #AgentesDeIA #WhatsAppBusiness #NexoIntelligence",
+      "titulo": "Isso é um CRM com IA para clínica de estética.",
+      "slug": "2026-09-arquivado-isso-e-um-crm-com-ia-para-clinica-de-estetica",
+      "tipo": "carrossel",
+      "status": "invalido"
     }
   ]
 }
